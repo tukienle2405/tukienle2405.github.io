@@ -1,0 +1,22 @@
+img {
+}
+
+.bg-warning-subtle {
+}
+
+.container {
+}
+
+.btn-order {
+  background-color: white;
+  color: rgb(156, 108, 56);
+  border: 2px solid rgb(156, 108, 56);
+  border-radius: 6px;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-order:hover {
+  background-color: rgb(156, 108, 56);
+  color: white;
+}
+
